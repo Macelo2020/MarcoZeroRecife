@@ -72,6 +72,12 @@ a {
 }
 
 
+.teste_execss {
+display: flex;
+justify-content: center;
+
+}
+
 footer {
 
     background-color: rgb(246, 247, 242);
